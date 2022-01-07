@@ -1,8 +1,16 @@
 #include <stdio.h>
 #include "fatorialRecursivo.h"
-//include "fatorialLoop.h"
 
-//int factloop(int x);
+/*
+
+FATORIAL
+
+5! = 5 * 4 * 3 * 2 * 1 = 120
+.
+.
+0! = 1! = 1
+
+*/
 
 int factRecursivo(int x);
 
