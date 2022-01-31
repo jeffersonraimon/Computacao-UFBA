@@ -16,7 +16,7 @@ Since 2021, until now.
 
 [ 2021.2 ]
 
-My first contact with programming in life. We've used Python and a JUDGE plataform called [JUDE]([Jude Contest System](http://200.128.51.30/#/)) where we submit our codes to see if works.
+My first contact with programming in life. We've used Python and a JUDGE plataform called [JUDE](http://200.128.51.30/#/) where we submit our codes to see if works.
 
 [My codes](https://github.com/jeffersonraimon/Computacao-UFBA/tree/main/MATA37-ILP%202021.2)
 
@@ -46,7 +46,7 @@ My first contact with programming in life. We've used Python and a JUDGE platafo
 
 Introduction to algorightms and data structures with C language.
 
-[My codes]([Computacao-UFBA/MATD04 - ESTRUTURAS DE DADOS 2022.1 FÉRIAS/EQUIPE 4 at main · jeffersonraimon/Computacao-UFBA · GitHub](https://github.com/jeffersonraimon/Computacao-UFBA/tree/main/MATD04%20-%20ESTRUTURAS%20DE%20DADOS%202022.1%20F%C3%89RIAS/EQUIPE%204))
+[My codes](https://github.com/jeffersonraimon/Computacao-UFBA/tree/main/MATD04%20-%20ESTRUTURAS%20DE%20DADOS%202022.1%20F%C3%89RIAS/EQUIPE%204)
 
 ---
 
@@ -58,10 +58,10 @@ In this period I started the study and training of programming competitions, wit
 
 I had participated in a selective and I managed to solve 4 problems of 13.
 
-[My codes]([Computacao-UFBA/SELETIVA-GRUPRO 2021.2 at main · jeffersonraimon/Computacao-UFBA · GitHub](https://github.com/jeffersonraimon/Computacao-UFBA/tree/main/SELETIVA-GRUPRO%202021.2))
+[My codes](https://github.com/jeffersonraimon/Computacao-UFBA/tree/main/SELETIVA-GRUPRO%202021.2)
 
 I also participed in the ICPC Brazil Subregional 2021 with an team (Os Limados) and we managed to solve 1 problem (in another problem we got TLE - Time Limit Exceed =/)
 
-[My team code]([Computacao-UFBA/ICPC BRAZIL SUBREGIONAL 2021/Equipe Os Limados at main · jeffersonraimon/Computacao-UFBA · GitHub](https://github.com/jeffersonraimon/Computacao-UFBA/tree/main/ICPC%20BRAZIL%20SUBREGIONAL%202021/Equipe%20Os%20Limados))
+[My team code](https://github.com/jeffersonraimon/Computacao-UFBA/tree/main/ICPC%20BRAZIL%20SUBREGIONAL%202021/Equipe%20Os%20Limados)
 
 ---
