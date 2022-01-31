@@ -38,18 +38,6 @@ My first contact with programming in life. We've used Python and a JUDGE platafo
 
 ---
 
-### MATD04 - Estruturas de Dados
-
-### Data Structures
-
-[ 2022.1 ] - Vacation Course
-
-Introduction to algorightms and data structures with C language.
-
-[My codes](https://github.com/jeffersonraimon/Computacao-UFBA/tree/main/MATD04%20-%20ESTRUTURAS%20DE%20DADOS%202022.1%20F%C3%89RIAS/EQUIPE%204)
-
----
-
 ### Programming Contest
 
 [ 2021.2 ]
@@ -63,5 +51,21 @@ I had participated in a selective and I managed to solve 4 problems of 13.
 I also participed in the ICPC Brazil Subregional 2021 with an team (Os Limados) and we managed to solve 1 problem (in another problem we got TLE - Time Limit Exceed =/)
 
 [My team code](https://github.com/jeffersonraimon/Computacao-UFBA/tree/main/ICPC%20BRAZIL%20SUBREGIONAL%202021/Equipe%20Os%20Limados)
+
+---
+
+### MATD04 - Estruturas de Dados
+
+### Data Structures
+
+[ 2022.1 ] - Vacation Course
+
+Introduction to algorightms and data structures with C language.
+
+[My codes](https://github.com/jeffersonraimon/Computacao-UFBA/tree/main/MATD04%20-%20ESTRUTURAS%20DE%20DADOS%202022.1%20F%C3%89RIAS/EQUIPE%204)
+
+
+
+
 
 ---
