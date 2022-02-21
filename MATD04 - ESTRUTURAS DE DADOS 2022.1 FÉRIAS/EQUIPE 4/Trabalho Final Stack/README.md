@@ -20,9 +20,9 @@ Neste trabalho, nós desenvolvemos um programa que recebe como valor de entrada 
 
 ## Por quê pilha?
 
-O programa em questão precisa que os dados inseridos do valor total do caixa sejam a cada dia que passa, podendo ser removido apenas o ultimo valor colocado, caso algo esteja errado. Assim, a escolha da estrutura pilha é ideal devido ser do tipo LIFO (last in, first out) e possibilita atender essa necessidade do programa.
+Nas atividades diárias de um mercado, é necessário haver um controle de caixa, em que se possa inserir o valor total do caixa a cada dia. Assim, criamos um programa em que se pode inserir o valor total do caixa por dia e remover apenas o último no caso de erro, o que faz a estrutura de pilha a ideal devido ser do tipo LIFO (last in, first out) e possibilita atender essa necessidade do programa.
 
-Os dias que passaram acabarão sendo empilhados e no relatório será mostrado o do primeiro dia ao último, de baixo pra cima.
+Os dias que passaram acabarão sendo empilhados e no relatório será mostrado do primeiro dia ao último, de baixo pra cima.
 
 ## Estrutura da Pilha
 
