@@ -71,9 +71,9 @@ void inicializarPilha(Pilha *pilha) {
 
 Essa função fica responsável de inicializar a estrutura pilha da seguinte forma:
 
-1. recebe como argumento um ponteiro do tipo Pilha (definido na Struct); 
+- recebe como argumento um ponteiro do tipo Pilha (definido na Struct); 
 
-2. acessa a struct e define o valor do ponteiro topo como NULL e o tamanho da pilha como 0.
+- acessa a struct e define o valor do ponteiro topo como NULL e o tamanho da pilha como 0.
 
 ### Empilhar
 
