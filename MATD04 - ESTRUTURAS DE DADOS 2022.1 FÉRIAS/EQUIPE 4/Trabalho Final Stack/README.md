@@ -66,7 +66,7 @@ void inicializarPilha(Pilha *pilha) {
 }
 ```
 
-**Essa função fica responsável de inicializar a estrutura pilha da seguinte forma: **
+Essa função fica responsável de inicializar a estrutura pilha da seguinte forma:
 
 1. recebe como argumento um ponteiro do tipo Pilha (definido na Struct); 
 
