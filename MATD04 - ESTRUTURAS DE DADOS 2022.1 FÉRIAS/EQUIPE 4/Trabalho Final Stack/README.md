@@ -35,6 +35,12 @@ typedef struct PILHA{
 } Pilha;
 ```
 
+Para o *struct* usamos duas estruturas:
+
+- uma estrutura *NO* (utilizamos o typedef para facilitar a organização e entendimento do código) com dois elementos, uma valor *float* e um ponteiro para outro nó.
+
+- e a estrutura *PILHA*, que possui um elemento do tipo **NO* chamado topo, e um tamanho *float* para o tamanho da pilha.
+
 ## Funções da Pilha
 
 ```c
@@ -71,5 +77,20 @@ Essa função fica responsável de inicializar a estrutura pilha da seguinte for
 1. recebe como argumento um ponteiro do tipo Pilha (definido na Struct); 
 
 2. acessa a struct e define o valor do ponteiro topo como NULL e o tamanho da pilha como 0.
+
+### Empilhar
+
+```c
+void empilhar(float valor, Pilha *pilha) {
+  No *novoNo = malloc(sizeof(No));
+  novoNo->valor = valor;
+  if (pilha->tamanho == 0)
+    novoNo->proximo = NULL;
+  else
+    novoNo->proximo = pilha->topo;
+  pilha->topo = novoNo;
+  pilha->tamanho++;
+}
+```
 
 

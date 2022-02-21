@@ -26,7 +26,6 @@ void empilhar(float valor, Pilha *pilha) {
     novoNo->proximo = pilha->topo;
   pilha->topo = novoNo;
   pilha->tamanho++;
-
 }
 
 void exibir(Pilha *pilha) {
