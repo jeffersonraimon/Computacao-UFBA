@@ -57,7 +57,7 @@ void desempilhar(Pilha *pilha);
 void limparPilha(Pilha **pilha);
 ```
 
-## Inicializar Pilha
+### Inicializar Pilha
 
 ```c
 void inicializarPilha(Pilha *pilha) {
