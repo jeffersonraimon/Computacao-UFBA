@@ -20,6 +20,9 @@ Professora: Cristiana Bispo
 
 Neste trabalho, nós desenvolvemos um programa que recebe como valor de entrada o  saldo total do caixa no dia, de um supermecado e o armazena numa estrutura de dados do tipo pilha. Também é possível imprimir o relatório dos valores de cada dia, excluir a ultima entrada e também excluir todo o relatório.
 
+![image](https://user-images.githubusercontent.com/80064475/154968898-8774d8b1-1a90-49d6-a983-23566c3ebc9c.png)
+
+
 ## Estrutura da Pilha
 
 ```c
