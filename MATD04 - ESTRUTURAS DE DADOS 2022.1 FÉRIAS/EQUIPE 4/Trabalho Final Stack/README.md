@@ -1,7 +1,5 @@
 # TRABALHO FINAL | CONTROLE DE CAIXA
 
-
-
 ```
 Universidade Federal da Bahia - UFBA
 
@@ -14,19 +12,15 @@ Equipe: 04 - Heron Oliveira, Lílian Sousa, Jefferson Raimon, João Abreu, Mateu
 Professora: Cristiana Bispo
 ```
 
-
-
 ## Introdução
 
 Neste trabalho, nós desenvolvemos um programa que recebe como valor de entrada o  saldo total do caixa no dia, de um supermecado e o armazena numa estrutura de dados do tipo pilha. Também é possível imprimir o relatório dos valores de cada dia, excluir a ultima entrada e também excluir todo o relatório.
 
 ![image](https://user-images.githubusercontent.com/80064475/154968898-8774d8b1-1a90-49d6-a983-23566c3ebc9c.png)
 
-
 ## Estrutura da Pilha
 
 ```c
-
 typedef struct NO{
   float valor;
   struct NO *proximo;
@@ -94,6 +88,32 @@ void empilhar(float valor, Pilha *pilha) {
   pilha->topo = novoNo;
   pilha->tamanho++;
 }
+```
+
+Para a operação de empilhar:
+
+- recebe como parâmetro um ponteiro do tipo *Pilha* para a nossa pilha e o elemento do tipo *float*a ser inserido.
+
+- um novo nó é alocado dinamicamente e inserido no topo da pilha.
+
+- atualizamos o ponteiro para o topo.
+
+- acessamos o parâmetro tamanho e incrementamos ele.
+
+## Exibir Pilha
+
+```c
+void exibir(Pilha *pilha) {
+  No *temporario;
+  float soma = 0;
+  temporario = pilha->topo;
+  int i = pilha->tamanho;
+  while (i > 0) {
+    soma += temporario ->valor;
+    printf("Dia: %i | Valor: [ R$%5.2f ]\n", i, temporario->valor);
+    temporario = temporario->proximo;
+    i--;
+  }
 ```
 
 
