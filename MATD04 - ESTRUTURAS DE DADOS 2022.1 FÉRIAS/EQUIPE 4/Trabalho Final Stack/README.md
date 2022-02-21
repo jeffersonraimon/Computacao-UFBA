@@ -100,7 +100,7 @@ Para a operação de empilhar:
 
 - acessamos o parâmetro tamanho e incrementamos ele.
 
-## Exibir Pilha
+### Exibir Pilha
 
 ```c
 void exibir(Pilha *pilha) {
