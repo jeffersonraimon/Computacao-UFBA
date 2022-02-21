@@ -26,8 +26,6 @@ Os dias que passaram acabarão sendo empilhados e no relatório será mostrado d
 
 ![programa_imprimir](https://user-images.githubusercontent.com/80064475/154999513-3ff37024-1f88-4376-88f7-821526f34433.png)
 
-
-
 ## Estrutura da Pilha
 
 ```c
@@ -126,6 +124,8 @@ void exibir(Pilha *pilha) {
   }
 ```
 
+Cria-se um ponteiro temporário para receber o topo da pilha então temos uma variavel de controle para correr o tamanho da pilha ( ou o numero de dias) assim imprimindo na tela esse valor 
+
 ### Desempilhar
 
 ```c
@@ -162,5 +162,7 @@ void limparPilha(Pilha **pilha) {
   }
 }
 ```
+
+Cria-se um ponteiro temporário para receber a pilha e para não perdermos a referência da mesma e também uma estrutura de repetição que checar se a pilha está vazia e usa a função free para limpar, enquanto houver valores na pilha.
 
 
