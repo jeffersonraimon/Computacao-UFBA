@@ -18,9 +18,22 @@ Professora: Cristiana Bispo
 
 ## Introdução
 
-Neste trabalho, nós desenvolvemos um programa que recebe como valor de entrada o  saldo total do caixano dia, de um supermecado e o armazena numa estrutura de dados do tipo pilha. Também é possível imprimir o relatório dos valores de cada dia, excluir a ultima entrada e também excluir todo o relatório.
+Neste trabalho, nós desenvolvemos um programa que recebe como valor de entrada o  saldo total do caixa no dia, de um supermecado e o armazena numa estrutura de dados do tipo pilha. Também é possível imprimir o relatório dos valores de cada dia, excluir a ultima entrada e também excluir todo o relatório.
 
+## Estrutura da Pilha
 
+```c
+
+typedef struct NO{
+  float valor;
+  struct NO *proximo;
+} No;
+
+typedef struct PILHA{
+  No *topo;
+  float tamanho;
+} Pilha;
+```
 
 ## Funções da Pilha
 
