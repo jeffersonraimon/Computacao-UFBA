@@ -22,7 +22,11 @@ Neste trabalho, nós desenvolvemos um programa que recebe como valor de entrada 
 
 Nas atividades diárias de um mercado, é necessário haver um controle de caixa, em que se possa inserir o valor total do caixa a cada dia. Assim, criamos um programa em que se pode inserir o valor total do caixa por dia e remover apenas o último no caso de erro, o que faz a estrutura de pilha a ideal devido ser do tipo LIFO (last in, first out) e possibilita atender essa necessidade do programa.
 
-Os dias que passaram acabarão sendo empilhados e no relatório será mostrado do primeiro dia ao último, de baixo pra cima.
+Os dias que passaram acabarão sendo empilhados e no relatório será mostrado do primeiro dia ao último, de baixo pra cima e o valor total do mês corrente.
+
+![programa_imprimir](https://user-images.githubusercontent.com/80064475/154999513-3ff37024-1f88-4376-88f7-821526f34433.png)
+
+
 
 ## Estrutura da Pilha
 
