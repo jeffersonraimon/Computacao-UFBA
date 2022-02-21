@@ -141,3 +141,22 @@ Para a operação de desempilhar:
 - retorna o ponteiro para o topo desempilhado ou nulo caso a pilha esteja vazia.
 
 - antes de retornar ao nó desempilhado, o topo é atualizado para o nó seguinte.
+
+### Limpar Pilha
+
+```c
+void limparPilha(Pilha **pilha) {
+  printf("Excluindo Relatorio...\n");
+  No *temporario;
+  temporario = *pilha;
+  while (temporario != NULL) {
+    printf("Excluindo... [R$%5.2f]\n", temporario->valor);
+
+      *pilha = temporario->proximo;
+      free(temporario);
+      temporario = *pilha;
+  }
+}
+```
+
+
