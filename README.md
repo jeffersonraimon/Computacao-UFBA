@@ -8,7 +8,7 @@ License in Computer | Federal University of Bahia (UFBA)
 
 Since 2021, until now.
 
-
+---
 
 ### MATA37 - Introdução à Lógica de Programação (ILP)
 
@@ -36,7 +36,7 @@ My first contact with programming in life. We've used Python and a JUDGE platafo
 
 [Study material](https://rodrigorgs.github.io/aulas/ilp/)
 
-
+---
 
 ### Programação Competitiva
 
@@ -54,7 +54,7 @@ I also participed in the ICPC Brazil Subregional 2021 with an team (Os Limados) 
 
 [My team code](https://github.com/jeffersonraimon/Computacao-UFBA/tree/main/ICPC%20BRAZIL%20SUBREGIONAL%202021/Equipe%20Os%20Limados)
 
-
+---
 
 ### MATD04 - Estruturas de Dados
 
@@ -66,7 +66,7 @@ Introduction to algorightms and data structures with C language.
 
 [My codes](https://github.com/jeffersonraimon/Computacao-UFBA/tree/main/MATD04%20-%20ESTRUTURAS%20DE%20DADOS%202022.1%20F%C3%89RIAS/EQUIPE%204)
 
-
+---
 
 ### MATA55 - Programação Orientada a Objetos
 
@@ -76,6 +76,8 @@ Introduction to algorightms and data structures with C language.
 
 i'll do this period.
 
+---
+
 ### MATA57 - Laboratório de Programação I
 
 ### Programming Lab I
@@ -83,6 +85,8 @@ i'll do this period.
 [2022.1]
 
 i'll do this period.
+
+---
 
 ### MATF34 - ACCS: Programação Competitiva - Computação Para Alunos
 
