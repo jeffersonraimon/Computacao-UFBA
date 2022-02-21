@@ -39,7 +39,7 @@ Para o *struct* usamos duas estruturas:
 
 - uma estrutura *NO* (utilizamos o typedef para facilitar a organização e entendimento do código) com dois elementos, uma valor *float* e um ponteiro para outro nó.
 
-- e a estrutura *PILHA*, que possui um elemento do tipo **NO* chamado topo, e um tamanho *float* para o tamanho da pilha.
+- e a estrutura *PILHA*, que possui um elemento do tipo **NO* chamado topo, e um tamanho *int* para o tamanho da pilha.
 
 ## Funções da Pilha
 

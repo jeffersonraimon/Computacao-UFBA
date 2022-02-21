@@ -8,7 +8,7 @@ typedef struct NO{
 
 typedef struct PILHA{
   No *topo;
-  float tamanho;
+  int tamanho;
 } Pilha;
 
 void inicializarPilha(Pilha *pilha) {
