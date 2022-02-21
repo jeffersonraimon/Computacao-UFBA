@@ -57,4 +57,15 @@ void desempilhar(Pilha *pilha);
 void limparPilha(Pilha **pilha);
 ```
 
+## Inicializar Pilha
 
+```c
+void inicializarPilha(Pilha *pilha) {
+  pilha->topo    = NULL;
+  pilha->tamanho = 0;
+}
+```
+
+Essa função fica responsável de inicializar a estrutura pilha da seguinte forma:
+
+acessa a struct e define o valor do ponteiro topo como NULL e o tamanho da pilha como 0
