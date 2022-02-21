@@ -18,6 +18,12 @@ Neste trabalho, nós desenvolvemos um programa que recebe como valor de entrada 
 
 ![programa](https://user-images.githubusercontent.com/80064475/154977517-f8a852d9-9433-4cd0-8688-c5d205201373.png)
 
+## Por quê pilha?
+
+O programa em questão precisa que os dados inseridos do valor total do caixa sejam a cada dia que passa, podendo ser removido apenas o ultimo valor colocado, caso algo esteja errado. Assim, a escolha da estrutura pilha é ideal devido ser do tipo LIFO (last in, first out) e possibilita atender essa necessidade do programa.
+
+Os dias que passaram acabarão sendo empilhados e no relatório será mostrado o do primeiro dia ao último, de baixo pra cima.
+
 ## Estrutura da Pilha
 
 ```c
