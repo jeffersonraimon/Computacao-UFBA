@@ -24,7 +24,8 @@ int main() {
         printf("2. IMPRIMIR RELATORIO DIARIO\n");
         printf("3. EXCLUIR ULTIMA ENTRADA\n");
 		printf("4. EXCLUIR RELATORIO\n");
-        printf("5. SAIR DO PROGRAMA\n");
+        printf("5. SOBRE O PROGRAMA\n");
+        printf("6. SAIR DO PROGRAMA\n");
         printf("OPCAO: ");
         scanf(" %d", &opcao);
 
@@ -58,9 +59,13 @@ int main() {
                 printf("RELATORIO EXCLUIDO!!!\n");
                 system("pause");
                 break;
-
+            case 5:
+                system("cls");
+                sobre();
+                system("pause");
+                break;
         }
 
-    } while (opcao != 5);
+    } while (opcao != 6);
     return 0;
 }

@@ -71,3 +71,22 @@ void limparPilha(Pilha **pilha) {
   }
 }
 
+void sobre(){
+    printf("\n\n");
+    printf("    ================================ SOBRE ================================\n");
+    printf("    |                                                                       |\n");
+    printf("    |CONTROLE DE CAIXA CRIADO UTILIZANDO PILHA DINAMICA, STRUCTS E PONTEI-  |\n");
+    printf("    |ROS, COMO   FORMA DE AVALIACAO DA DISCIPLINA DE ESTRUTURA DE DADOS.    |\n");
+    printf("    |O PROGRAMA CONSISTE EM RELATAR AS VENDAS DIARIAS E INFORMAR O TOTAL DE |\n");
+    printf("    |VENDAS NO MES.                                                         |\n");
+    printf("    |                                                                       |\n");
+    printf("    |                          IDENTIFICACAO                                |\n");
+    printf("    |                                                                       |\n");
+    printf("    |UFBA - CAMPUS ONDINA (REMOTO)                                          |\n");
+    printf("    |DISCIPLINA: MATD04 - ESTRUTURA DE DADOS                                |\n");
+    printf("    |PROFESSORA: CRISTIANA BISPO PEREIRA                                    |\n");
+    printf("    |EQUIPE 04: JEFFERSON SILVA, RAFAEL CASAES, WANDERSON SANTOS,JOAO ABREU,|\n");
+    printf("    |LILIAN SOUSA, HERON OLIVEIRA, MATEUS MOURA                             |\n");
+    printf("    |                                                                       |\n");
+    printf("    =========================================================================\n");
+}
