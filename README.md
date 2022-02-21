@@ -38,6 +38,8 @@ My first contact with programming in life. We've used Python and a JUDGE platafo
 
 ---
 
+### Programação Competitiva
+
 ### Programming Contest
 
 [ 2021.2 ]
@@ -63,9 +65,5 @@ I also participed in the ICPC Brazil Subregional 2021 with an team (Os Limados) 
 Introduction to algorightms and data structures with C language.
 
 [My codes](https://github.com/jeffersonraimon/Computacao-UFBA/tree/main/MATD04%20-%20ESTRUTURAS%20DE%20DADOS%202022.1%20F%C3%89RIAS/EQUIPE%204)
-
-
-
-
 
 ---
