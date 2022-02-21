@@ -41,7 +41,7 @@ int main() {
                 } while (controle == 1);
                 break;
             case 2:
-            	system("cls");
+                system("cls");
                 exibir(&pilha);
                 system("pause");
                 break;

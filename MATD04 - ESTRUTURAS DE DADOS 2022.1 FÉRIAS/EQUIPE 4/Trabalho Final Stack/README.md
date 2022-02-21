@@ -71,7 +71,7 @@ void inicializarPilha(Pilha *pilha) {
 
 Essa função fica responsável de inicializar a estrutura pilha da seguinte forma:
 
-- recebe como argumento um ponteiro do tipo Pilha (definido na Struct); 
+- recebe como argumento um ponteiro do tipo Pilha (definido na Struct). 
 
 - acessa a struct e define o valor do ponteiro topo como NULL e o tamanho da pilha como 0.
 
@@ -116,4 +116,22 @@ void exibir(Pilha *pilha) {
   }
 ```
 
+### Desempilhar
 
+```c
+void desempilhar(Pilha *pilha) {
+  if (pilha->tamanho == 0) {
+    printf("Sem Relatorios\n");
+  } else {
+    printf(" VALOR: [R$%5.2f] EXCLUIDO\n", pilha->topo->valor);
+    pilha->tamanho--;
+    pilha->topo = pilha->topo->proximo;
+  }
+}
+```
+
+Para a operação de desempilhar:
+
+- retorna o ponteiro para o topo desempilhado ou nulo caso a pilha esteja vazia.
+
+- antes de retornar ao nó desempilhado, o topo é atualizado para o nó seguinte.
