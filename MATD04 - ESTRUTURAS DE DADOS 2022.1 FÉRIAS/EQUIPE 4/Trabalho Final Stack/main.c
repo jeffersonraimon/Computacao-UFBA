@@ -49,7 +49,7 @@ int main() {
             case 3:
                 controle = 0;
 				system("cls");
-                printf("Tem certeza que deseja excluir o relatorio? [1] - S | [2] - N: ");
+                printf("Tem certeza que deseja excluir a ultima entrada? [1] - S | [2] - N: ");
                 scanf("%d",&controle);
                 if (controle == 1){
                     desempilhar(&pilha);
