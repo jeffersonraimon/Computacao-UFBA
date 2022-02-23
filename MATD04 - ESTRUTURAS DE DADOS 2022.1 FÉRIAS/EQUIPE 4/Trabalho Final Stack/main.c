@@ -47,18 +47,35 @@ int main() {
                 break;
 
             case 3:
+                controle = 0;
 				system("cls");
-                desempilhar(&pilha);
-                system("pause");
-                break;
+                printf("Tem certeza que deseja excluir o relatorio? [1] - S | [2] - N: ");
+                scanf("%d",&controle);
+                if (controle == 1){
+                    desempilhar(&pilha);
+                    system("pause");
+                    break;
+                } else{
+                    break;
+                }
+                    
+                
 
             case 4:
+                controle = 0;
 				system("cls");
-                limparPilha(&pilha);
-                inicializarPilha(&pilha);
-                printf("RELATORIO EXCLUIDO!!!\n");
-                system("pause");
-                break;
+                printf("Tem certeza que deseja excluir o relatorio? [1] - S | [2] - N: ");
+                scanf("%d",&controle);
+                if (controle == 1){
+                    limparPilha(&pilha);
+                    inicializarPilha(&pilha);
+                    printf("RELATORIO EXCLUIDO!!!\n");
+                    system("pause");
+                    break;
+                } else {
+                    break;
+                }
+                
             case 5:
                 system("cls");
                 sobre();

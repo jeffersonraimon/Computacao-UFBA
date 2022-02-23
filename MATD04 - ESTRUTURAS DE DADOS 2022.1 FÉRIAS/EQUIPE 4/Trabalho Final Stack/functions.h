@@ -18,8 +18,8 @@ void inicializarPilha(Pilha *pilha) {
 
 
 void empilhar(float valor, Pilha *pilha) {
-  No *novoNo      = malloc(sizeof(No));
-  novoNo->valor   = valor;
+  No *novoNo = malloc(sizeof(No));
+  novoNo->valor = valor;
   if (pilha->tamanho == 0)
     novoNo->proximo = NULL;
   else
