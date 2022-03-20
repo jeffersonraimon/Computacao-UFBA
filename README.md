@@ -38,6 +38,8 @@ My first contact with programming in life. We've used Python and a JUDGE platafo
 
 ---
 
+### Programação Competitiva
+
 ### Programming Contest
 
 [ 2021.2 ]
@@ -64,8 +66,32 @@ Introduction to algorightms and data structures with C language.
 
 [My codes](https://github.com/jeffersonraimon/Computacao-UFBA/tree/main/MATD04%20-%20ESTRUTURAS%20DE%20DADOS%202022.1%20F%C3%89RIAS/EQUIPE%204)
 
+---
 
+### MATA55 - Programação Orientada a Objetos
 
+### Object Oriented Programming
 
+[2022.1]
+
+i'll do this period.
 
 ---
+
+### MATA57 - Laboratório de Programação I
+
+### Programming Lab I
+
+[2022.1]
+
+i'll do this period.
+
+---
+
+### MATF34 - ACCS: Programação Competitiva - Computação Para Alunos
+
+### ACCS: Programming Contest - Computing for students
+
+[2022.1]
+
+i'll do this period.
