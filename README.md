@@ -90,7 +90,7 @@ Deepening in Programming Logic with C and C++
 
 | Contents studied   |
 | ------------------ |
-| review of LPI      |
+| Review of LPI      |
 | Functions          |
 | Pointers           |
 | Dynamic allocation |
