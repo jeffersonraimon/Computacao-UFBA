@@ -86,7 +86,7 @@ i'll do this period.
 
 Deepening in Programming Logic with C and C++
 
-[My codes]([Computacao-UFBA/MATA57- LAB DE PROGRAMAÇÃO I/JUDE at main · jeffersonraimon/Computacao-UFBA · GitHub](https://github.com/jeffersonraimon/Computacao-UFBA/tree/main/MATA57-%20LAB%20DE%20PROGRAMA%C3%87%C3%83O%20I/JUDE))
+[My codes](https://github.com/jeffersonraimon/Computacao-UFBA/tree/main/MATA57-%20LAB%20DE%20PROGRAMA%C3%87%C3%83O%20I/JUDE)
 
 | Contents studied   |
 | ------------------ |
